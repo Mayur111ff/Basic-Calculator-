@@ -1,2 +1,2 @@
 # Advance-Calculator-
-basic calculator with advance features
+Advance calculator with advance features make by Mayur111
